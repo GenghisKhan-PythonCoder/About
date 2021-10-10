@@ -1,5 +1,5 @@
 # About
-Hi 👋, I'm Cengizhan
+Hi 👋, I'm Cengizhan.
 I know python programming language.
 
 <h3 align="left">Languages and Tools:</h3>
